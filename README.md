@@ -4,7 +4,9 @@ The official implementation of TaWQ
 ## Requirements
 
 pytorch
+
 spikingjelly==0.0.0.12
+
 timm==0.6.12
 
 ## ImageNet
